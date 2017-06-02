@@ -1,7 +1,7 @@
 # Python Student Notebooks
-> Compiling the best information for understanding and re-use later.
+> Compiling the best information for understanding, practice, and re-use later.
 
-A collection of student and reference notebooks on useful and important Python topics and methods.
+A collection of student and reference notebooks on useful and important Python and Python-related topics and methods.
 Distributed in Jupyter Notebook files and format.
 
 ## Installing / Getting started
