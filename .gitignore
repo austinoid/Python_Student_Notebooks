@@ -1,4 +1,7 @@
 # Comment Lines
+*.db
 hello*.log
 gh*.txt
+test_graphic.gif
 Python Advanced Topics Student Notebook.ipynb
+Learning Python 6 - Classes and Objects.ipynb
