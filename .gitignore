@@ -1,4 +1,5 @@
 # Comment Lines
+.ipynb_checkpoints/
 *.db
 hello*.log
 gh*.txt
